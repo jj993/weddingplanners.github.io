@@ -1,0 +1,11 @@
+$(document).ready(function(){
+$(window).scroll(function(){
+		if($(this).scrollTop()>300){
+	    	$('.header_bottom').addClass("sticky");
+	  	}
+	  	else
+	  	{
+	    	$('.header_bottom').removeClass("sticky");
+	  	}
+	});
+});

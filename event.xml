@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<management>
+	<event>
+		<name>Ring Ceremony</name>
+		<title>Ria Weds Ayan</title>
+		<desc>"All love stories have their own interesting aura, but there is nothing that impresses us more, in our goal-oriented world, than power couples. Since power couples are usually the finest example of personal and professional success combined, we admire and look up to them. Secretly, we all dream of being in a power couple."</desc>
+	</event>
+	<event>
+		<name>Cocktail</name>
+		<title>Zenifer Weds James</title>
+		<desc>"A power couple is made of two equal partners who complement each other and whose relationship is based on mutual respect and appreciation. In a loving couple, there is no competition, only collaboration."
+    </desc>
+	</event>
+	<event>
+		<name>Wedding</name>
+		<title>Noor Weds Rahaan</title>
+		<desc>"The best thing about being in a loving relationship is the amount of support we get and which motivates us to go for the stars. Good partners help us rekindle our passion and discover our confidence. They treat us as if we were capable of greatness and we do the same for them."</desc>
+	</event>
+</management>
